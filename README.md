@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dissojak&label=Profile%20views&color=0e75b6&style=flat" alt="dissojak" /> </p>
 
-- 🌱 I’m currently learning **React / Express / MongoDD**
+- 🌱 I’m currently learning **React / Express / MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dissojak](https://github.com/dissojak)
 
