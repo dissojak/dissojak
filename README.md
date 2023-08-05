@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **StooProduction@gmail.com**
+- 📫 How to reach me **StoonProduction@gmail.com**
 
 - ⚡ Fun fact **Better At VideoMaking**
 
